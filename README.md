@@ -107,15 +107,6 @@ Each run produces a different story depending on the user’s input.
 - Validate user input  
 - Convert to a GUI using JavaFX or Swing  
 - Add file-based input/output  
-
----
-
-## 👨‍💻 Author
-
-**Mayank Garg**  
-Master’s in Computer Science  
-Java | Full-Stack | Software Development  
-
 ---
 
 ## ⭐ Support
@@ -124,3 +115,5 @@ If you find this project useful or fun:
 - ⭐ Star the repository  
 - 🍴 Fork it and customize your own story  
 - 📢 Share it with other Java learners  
+
+From Brocode's Course on Youtube
